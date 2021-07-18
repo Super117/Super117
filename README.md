@@ -32,19 +32,19 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 ## 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img align="left" width=396 src="https://github-readme-stats.vercel.app/api/wakatime?username=sudipmondal&theme=react&border_color=61dafb&langs_count=13" alt="sudip's wakatime" />
+<a href="#" title="Go to Source">
+    <img align="left" width=396 src="https://github-readme-stats.vercel.app/api/wakatime?username=Super117&theme=react&border_color=61dafb&langs_count=13" alt="sudip's wakatime" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=sudip-mondal-2002&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
+<a href="#" title="Go to Source">
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=Super117&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
  </a>
 <a href="(https://git.io/streak-stats" title="Go to Source">
-      <img align="right" width=396 src="http://github-readme-streak-stats.herokuapp.com?user=sudip-mondal-2002&theme=react&border=61DAFB&fire=DDB80F"/>
+      <img align="right" width=396 src="http://github-readme-streak-stats.herokuapp.com?user=Super117&theme=react&border=61DAFB&fire=DDB80F"/>
  </a>
 
 <div align=center>
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=sudip-mondal-2002&theme=onedark&column=8" alt="zumrudu-anka" />
+    <a href="#" title="Go to Source">
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=Super117&theme=onedark&column=8" alt="zumrudu-anka" />
     </a>
 </div>
