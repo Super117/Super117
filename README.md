@@ -35,8 +35,3 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
       <img height="180em" width="45%" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=Super117&theme=react&border=61DAFB&fire=DDB80F"/>
  </a>
 </div>
-
-## 
-## 
-<a href="#"><img alt="Super117's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sudip-mondal-2002&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
