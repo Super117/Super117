@@ -34,6 +34,6 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
 
-[![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api?username=moshfiqrony&theme=dark&show_icons=true)](https://github.com/moshfiqrony)
-[![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api/pin/?username=moshfiqrony&repo=awesome-bd-readme-profile&theme=dark)](https://github.com/moshfiqrony/awesome-bd-readme-profile)
+[![super117's github stats](https://github-readme-stats.vercel.app/api?username=super117&theme=dark&show_icons=true)](https://github.com/super117)
+[![super117's github stats](https://github-readme-stats.vercel.app/api/pin/?username=super117&repo=awesome-bd-readme-profile&theme=dark)](https://github.com/super117/super117)
 
