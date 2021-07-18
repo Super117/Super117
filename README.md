@@ -1,5 +1,5 @@
 # Hi there 👋
-
+(https://raw.githubusercontent.com/RudrakshK/RudrakshK/master/jesus-kiteque-wn-KYaHwcis-unsplash.jpg)
 I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Spacex 🔭 and I am a bit 😄 mad 😄 when I code. Connect with me here -
 
 
@@ -27,9 +27,8 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
 
 ##
-
 <a href="#" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=Super117&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
+      <img align="left" width=396 src="https://github-readme-stats.vercel.app/api?username=Super117&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
  </a>
 <a href="#" title="Go to Source">
       <img align="right" width=396 src="http://github-readme-streak-stats.herokuapp.com?user=Super117&theme=react&border=61DAFB&fire=DDB80F"/>
